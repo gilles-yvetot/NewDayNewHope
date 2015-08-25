@@ -1,0 +1,18 @@
+.clearfix:after {content: ".";display: block;clear: both;visibility: hidden;line-height: 0;height: 0;}
+.clearfix {display: block;}
+html[xmlns] .clearfix {display: block;}
+* html .clearfix {height: 1%;}
+.ldc-ul_cont{
+    cursor: pointer;
+    font-family: open sans;
+    font-size: 12px;
+    font-weight: 600;
+} 
+.ldc-ul_cont img{
+	background: none repeat scroll 0 0 transparent;
+    box-shadow: none;
+    margin: 0 3px;
+    position: relative;
+    top: 3px;
+    display: none;
+}

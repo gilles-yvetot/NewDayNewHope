@@ -1,0 +1,267 @@
+# Translation of Big-brother in Esperanto
+# This file is distributed under the same license as the Big-brother package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-01-08 14:43:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
+"Project-Id-Version: Big-brother\n"
+
+#: inc/template-tags.php:74
+msgid "<span class=\"posted-on\">%1$s</span> <span class=\"byline\">%2$s</span>"
+msgstr "<span class=\"posted-on\">%1$s</span> <span class=\"byline\">%2$s</span>"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/big-brother/full-width.php
+msgid "Full Width Page"
+msgstr "Plenlarĝa paĝo"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/big-brother/style.css
+msgid "A pleasant-to-read, customizable theme designed for large organizations and government."
+msgstr ""
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Serĉi &hellip;"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Serĉi"
+
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Serĉrezultoj por: %s"
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr "Serĉu:"
+
+#: no-results.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Ŝajnas, ke ni ne povas trovi tion. Eble serĉo helpos."
+
+#: no-results.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ĉu preta por publikigi vian unuan afiŝon? <a href=\"%1$s\">Eku ĉi tie</a>."
+
+#: no-results.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Bedaŭrinde, nenio kongruis kun viaj serĉaj kriterioj. Bonvolu provi denove, uzante malsamajn vortojn."
+
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Nenio estis trovita"
+
+#: inc/template-tags.php:48
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Pli novaj afiŝoj <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Pli malnovaj afiŝoj"
+
+#: inc/template-tags.php:38
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:39
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:34
+msgid "Post navigation"
+msgstr "Navigado tra afiŝoj"
+
+#: header.php:38
+msgid "Skip to content"
+msgstr "Iri rekte al enhavo"
+
+#. translators: If there are characters in your language that are not supported
+#. by Gentium, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:230
+msgctxt "Gentium font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:236
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:37
+msgid "Menu"
+msgstr "Menuo"
+
+#: functions.php:198
+msgid "Articles posted by %s"
+msgstr "Artikoloj afiŝitaj de %s"
+
+#: functions.php:201
+msgid "Error 404"
+msgstr "Eraro 404"
+
+#: functions.php:215 inc/extras.php:66
+msgid "Page %s"
+msgstr "Paĝo %s"
+
+#: functions.php:191
+msgid "Search results for &#39;%s&#39;"
+msgstr "Serĉrezultoj por &#39;%s&#39;"
+
+#: functions.php:194
+msgid "Posts tagged &#39;%s&#39;"
+msgstr ""
+
+#: functions.php:145
+msgid "Home"
+msgstr "Ĉefpaĝo"
+
+#: functions.php:41
+msgid "Primary Menu"
+msgstr "Ĉefa menuo"
+
+#: functions.php:42
+msgid "Social Links"
+msgstr "Sociaj ligiloj"
+
+#: functions.php:76
+msgid "Sidebar"
+msgstr "Flankpanelo"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Etoso: %1$s de %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Fiere kreata de %s"
+
+#: content.php:63
+msgid "% Comments"
+msgstr "% Komentoj"
+
+#: content.php:63
+msgid "1 Comment"
+msgstr "1 komento"
+
+#: content.php:63
+msgid "Leave a comment"
+msgstr "Komenti"
+
+#: content-single.php:33
+msgid "<span class=\"entry-tags\">%2$s</span>"
+msgstr "<span class=\"entry-tags\">%2$s</span>"
+
+#: content-single.php:41
+msgid "<span class=\"entry-categories\">%1$s</span><span class=\"entry-tags\">%2$s</span>"
+msgstr "<span class=\"entry-categories\">%1$s</span><span class=\"entry-tags\">%2$s</span>"
+
+#: content-single.php:43 content.php:30
+msgid "<span class=\"entry-categories\">%1$s</span>"
+msgstr "<span class=\"entry-categories\">%1$s</span>"
+
+#: content.php:38
+msgid "<span class=\"entry-tags\">%1$s</span>"
+msgstr "<span class=\"entry-tags\">%1$s</span>"
+
+#: content.php:51
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Legi plu <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:19 content.php:20
+msgid "All %s posts"
+msgstr "Ĉiuj %s-afiŝoj"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:25 content-single.php:28 content.php:27 content.php:35
+msgid ", "
+msgstr ", "
+
+#: content-page.php:23 content-single.php:69 content.php:66
+msgid "Edit"
+msgstr "Redakti"
+
+#: content-page.php:18 content-single.php:62 content.php:54
+msgid "Pages:"
+msgstr "Paĝoj:"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Komentado estas fermita."
+
+#: comments.php:39 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Pli novaj komentoj &rarr;"
+
+#: comments.php:37 comments.php:51
+msgid "Comment navigation"
+msgstr "Navigado tra komentoj"
+
+#: comments.php:38 comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; Pli malnovaj komentoj"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Unu penso pri &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensoj pri &ldquo;%2$s&rdquo;"
+
+#: archive.php:58
+msgid "Archives"
+msgstr "Arkivoj"
+
+#: archive.php:52 functions.php:209
+msgid "Quotes"
+msgstr "Citaĵoj"
+
+#: archive.php:55 functions.php:211
+msgid "Links"
+msgstr "Ligiloj"
+
+#: archive.php:49 functions.php:207
+msgid "Videos"
+msgstr "Videoj"
+
+#: archive.php:46 functions.php:205
+msgid "Images"
+msgstr "Bildoj"
+
+#: archive.php:40
+msgid "Year: %s"
+msgstr "Jaro: %s"
+
+#: archive.php:43 functions.php:203
+msgid "Asides"
+msgstr "Mencioj"
+
+#: archive.php:34
+msgid "Day: %s"
+msgstr "Tago: %s"
+
+#: archive.php:37
+msgid "Month: %s"
+msgstr "Monato: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Ŝajne nenio estis trovita je ĉi tiu loko. Ĉu eble provi serĉon?"
+
+#: archive.php:31
+msgid "Author: %s"
+msgstr "Aŭtoro: %s"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ne eblas trovi tiun paĝon."
